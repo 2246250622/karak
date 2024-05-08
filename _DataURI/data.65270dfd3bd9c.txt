@@ -1,0 +1,1 @@
+chrome-extension://cofdbpoegempjloogbagkncekinflcnj/fonts/OpenSans_VariableFont_wdth_wght.ttf
